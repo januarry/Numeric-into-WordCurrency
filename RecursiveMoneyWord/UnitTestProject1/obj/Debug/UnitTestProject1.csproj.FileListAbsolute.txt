@@ -1,0 +1,8 @@
+E:\Learning\RecursiveMoneyWord\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Learning\RecursiveMoneyWord\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Learning\RecursiveMoneyWord\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Learning\RecursiveMoneyWord\UnitTestProject1\bin\Debug\RecursiveMoneyWord.exe
+E:\Learning\RecursiveMoneyWord\UnitTestProject1\bin\Debug\RecursiveMoneyWord.pdb
+E:\Learning\RecursiveMoneyWord\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\Learning\RecursiveMoneyWord\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Learning\RecursiveMoneyWord\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

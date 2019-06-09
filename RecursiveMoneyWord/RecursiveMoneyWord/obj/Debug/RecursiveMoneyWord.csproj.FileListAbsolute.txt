@@ -1,0 +1,6 @@
+E:\Learning\RecursiveMoneyWord\RecursiveMoneyWord\bin\Debug\RecursiveMoneyWord.exe.config
+E:\Learning\RecursiveMoneyWord\RecursiveMoneyWord\bin\Debug\RecursiveMoneyWord.exe
+E:\Learning\RecursiveMoneyWord\RecursiveMoneyWord\bin\Debug\RecursiveMoneyWord.pdb
+E:\Learning\RecursiveMoneyWord\RecursiveMoneyWord\obj\Debug\RecursiveMoneyWord.csprojResolveAssemblyReference.cache
+E:\Learning\RecursiveMoneyWord\RecursiveMoneyWord\obj\Debug\RecursiveMoneyWord.exe
+E:\Learning\RecursiveMoneyWord\RecursiveMoneyWord\obj\Debug\RecursiveMoneyWord.pdb
